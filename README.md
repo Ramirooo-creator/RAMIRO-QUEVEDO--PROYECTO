@@ -23,10 +23,4 @@ Dataset público con más de [X] filas y [Y] columnas, incluyendo nombre del jug
 - Pandas
 - Matplotlib / Seaborn
 
-## 📁 Archivos
-- `futbol_eda.ipynb`: Notebook con el análisis completo.
-- `presentacion.pdf`: PDF con visualizaciones ejecutivas e insights.
-- `data/`: Dataset usado.
 
-## 🔗 Presentación online (opcional)
-[Pegá el link si usaste Google Slides]
